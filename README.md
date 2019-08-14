@@ -1,2 +1,2 @@
-# Weatherbot
+# WeatherBot
  
